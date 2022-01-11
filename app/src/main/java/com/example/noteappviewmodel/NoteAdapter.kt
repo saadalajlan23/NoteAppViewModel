@@ -1,4 +1,4 @@
-package com.example.notes_app_viewmodel
+package com.example.noteappviewmodel
 
 
 import android.graphics.Color
